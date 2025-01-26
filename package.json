@@ -1,0 +1,17 @@
+{
+  "name": "github-pages",
+  "version": "1.0.0",
+  "description": "Test repo for GitHub pages",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx eleventy",
+    "serve": "npx eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
